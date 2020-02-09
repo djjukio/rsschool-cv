@@ -11,3 +11,7 @@
 * JS
 * Git
 * Apex
+### **Code examples:**
+*Please, look at [Codewars](https://www.codewars.com/users/djjukio).*
+
+
