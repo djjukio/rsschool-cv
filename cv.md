@@ -13,5 +13,7 @@
 * Apex
 ### **Code examples:**
 *Please, look at [Codewars](https://www.codewars.com/users/djjukio).*
+### **Experience:**
+*The Rolling Scopes school*
 
 
