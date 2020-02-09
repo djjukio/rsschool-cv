@@ -17,5 +17,6 @@
 *The Rolling Scopes school*
 ### **Education:**
 *Higher, Brest State University named after A.S. Pushkin, specialty mathematics and computer science.*
-
+###  **English level:**
+*Beginner A1*
 
