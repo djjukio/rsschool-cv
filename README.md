@@ -1,1 +1,1 @@
-["Markdown & Git"](https://djjukio.github.io/rsschool-cv/cv)
+["Markdown & Git"](https://djjukio.github.io/rsschool-cv/)
