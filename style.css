@@ -55,13 +55,15 @@ body {
     justify-content: center;
   
   }
-  
-  .footer-email {
+  .footer-github {
     margin: 5px 650px 5px 5px;
   }
   
-  .footer-email a {
+  .footer-github a {
     text-decoration: none;
     color: rgb(221, 221, 218);
+  }
+  .footer-year p {
+    color:rgb(221, 221, 218);
   }
   
