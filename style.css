@@ -1,16 +1,45 @@
 * {
     margin: 5px;
 }
+html {
+  scroll-behavior: smooth; 
+}
+.nav{
+  background-color: silver;
+}
 .photo {
-    border-radius: 75%;
+  border-radius: 50%;
+  box-shadow: 4px 4px 12px rgba(0, 0, 0, 0 25);
+}
+.nav-list {
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+  list-style: none;
+}
+.nav-link {
+  padding: 0 20px;
+  line-height: 50px;
+  transition: .3s;
+ 
+}
+.section-item a {
+  color: #829985;
+  text-decoration: none;  
+  transition: color 0.5s;
+}
+.section-item a:hover {
+  color: #4d2323;
 }
 body {
     background:#9e9e9e0f;
+    font-family: 'Roboto', sans-serif;
+    background-color:#f1f1f1;
   }
 .wrapper {
     width: 1024px;
     margin: 0 auto;
-    font-family: "Roboto", "Arial", sans-serif;
+    font-family: "Roboto", sans-serif;
     font-size: 18px;
     line-height: 1.5;
   }
@@ -21,9 +50,10 @@ body {
     margin: 0px;
     display: flex;
     flex-direction: row;
-    background-color: #0f2b0356;
+    background-color: #040a0156;
     color: rgb(221, 221, 218);
     justify-content: center;
+  
   }
   
   .footer-email {
